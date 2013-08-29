@@ -1,0 +1,3 @@
+Hori	300
+Maeda	500
+Yamanishi	200
